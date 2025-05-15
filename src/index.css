@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+@font-face {
+  font-family: "Horizon";
+  src: url('/horizon.otf');
+}
+
+@font-face {
+  font-family: "RobotoCondensed";
+  src: url('/Roboto-Condensed.ttf');
+}
+
+@font-face {
+  font-family: "OstiaAntica";
+  src: url("/OstiaAnticaWEB-Regular.ttf");
+}
