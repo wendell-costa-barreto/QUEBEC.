@@ -23,7 +23,7 @@ export default function DynamicWinterActivities() {
         </a>
         <p className="text-blue-50 *:underline">
           <a href="/activités">activités</a> /{" "}
-          <a href="/activités/saisons">saisons</a> /{" "}
+          <a href="/activités/hiver">hiver</a> /{" "}
           <a href={`/activites/activit%C3%A9shivernales/${activity}`}>
             {activityData?.params}
           </a>
