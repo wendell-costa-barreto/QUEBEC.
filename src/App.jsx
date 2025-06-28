@@ -12,7 +12,7 @@ import Villes from "./pages/destinations/villes";
 import Planification from "./pages/planification/Planification";
 import Entrer from "./pages/planification/Entrer";
 import Deplacer from "./pages/planification/Deplacer";
-import Destinations from "./pages/destinations/destinations";
+import Destinations from "./pages/destinations/Destinations";
 import DynamicSeasons from "./pages/activites/dynamicSeasons";
 import DynamicWinterActivities from "./pages/activites/dynamicWinterActivities";
 import Art from "./pages/destinations/Art";
