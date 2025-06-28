@@ -6,7 +6,7 @@ import Activites from "./pages/activites/activites";
 import Saisons from "./pages/activites/Saisons";
 import PlainAir from "./pages/activites/plainAir";
 import Aller from "./pages/destinations/Aller";
-import SkiStations from "./pages/destinations/ski";
+import SkiStations from "./pages/destinations/Ski";
 import Festivites from "./pages/activites/Festivites";
 import DynamicVilles from "./pages/destinations/dynamicVilles";
 import Villes from "./pages/destinations/Villes";
