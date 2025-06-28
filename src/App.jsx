@@ -39,7 +39,7 @@ export default function App() {
         {/*DESTINATIONS*/}
         <Route path="/destinations" element={<Destinations />} />
         <Route path="/destinations/aller/" element={<Aller />} />
-        <Route path="/destinations/ski/" element={<SkiStations />} />
+        <Route path="/destinations/ski/" element={<UnderConstruction />} />
         <Route path="/destinations/villes/" element={<Villes />} />
         <Route path="/destinations/art/" element={<Art />} />
 
