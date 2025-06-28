@@ -6,7 +6,7 @@ import Activites from "./pages/activites/activites";
 import Saisons from "./pages/activites/Saisons";
 import PlainAir from "./pages/activites/plainAir";
 import Aller from "./pages/destinations/Aller";
-import Ski from "./pages/destinations/ski";
+import SkiStations from "./pages/destinations/ski";
 import Festivites from "./pages/activites/Festivites";
 import DynamicVilles from "./pages/destinations/dynamicVilles";
 import Villes from "./pages/destinations/Villes";
@@ -39,7 +39,7 @@ export default function App() {
         {/*DESTINATIONS*/}
         <Route path="/destinations" element={<Destinations />} />
         <Route path="/destinations/aller/" element={<Aller />} />
-        <Route path="/destinations/ski/" element={<Ski />} />
+        <Route path="/destinations/ski/" element={<SkiStations />} />
         <Route path="/destinations/villes/" element={<Villes />} />
         <Route path="/destinations/art/" element={<Art />} />
 

@@ -3,7 +3,7 @@ import Slider from "../../components/Sliders";
 import { stations, sliderData } from "../../lib/Imports";
 import Footer from "../../components/Footer";
 import DividedSection from "../../components/DividedSection";
-export default function Ski() {
+export default function SkiStations() {
   return (
     <>
       <Hero
