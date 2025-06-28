@@ -21,7 +21,7 @@ import DynamicPlaces from "./pages/destinations/dynamicPlaces";
 import ActivitesHiver from "./pages/activites/activitesHiver";
 import UnderConstruction from "./components/UnderConstruction";
 import NotFound from "./components/404";
-import SkiStations from "./pages/destinations/Ski";
+import SkiStations from "./pages/destinations/SkiStations";
 
 export default function App() {
   return (
