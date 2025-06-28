@@ -5,7 +5,7 @@ import { TiArrowRight } from "react-icons/ti";
 import Hamburger from "hamburger-react";
 import SubSidebar from "./SubSidebar";
 import { FaArrowRight } from "react-icons/fa";
-import ThirdSidebar from "./ThirdSidebar";
+import ThirdSideBar from "./ThirdSideBar";
 
 export default function Navbar({ currentSeason }) {
   const [isOpen, setOpen] = useState(false);
@@ -221,7 +221,7 @@ export default function Navbar({ currentSeason }) {
         openThirdMenu={openThirdMenu}
       />
 
-      <ThirdSidebar
+      <ThirdSideBar
         isOpen={isThirdOpen}
         setIsOpen={setIsThirdOpen}
         item={currentSubItem}

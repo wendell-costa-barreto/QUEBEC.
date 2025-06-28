@@ -1,4 +1,4 @@
-export default function ThirdSidebar({ isOpen, setIsOpen, item }) {
+export default function ThirdSideBar({ isOpen, setIsOpen, item }) {
   return (
     <aside
       id="thirdsidebar"
