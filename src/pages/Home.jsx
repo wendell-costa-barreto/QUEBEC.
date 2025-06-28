@@ -8,7 +8,6 @@ import DividedSection from "../components/DividedSection";
 import Section from "../components/Section";
 import Footer from "../components/Footer";
 import { motion, AnimatePresence } from "framer-motion";
-import "../index.css";
 import Slider from "../components/Sliders";
 import Navbar from "../components/Navbar";
 import { preloadCriticalResources, VideoErrorBoundary } from "../utils/utils";

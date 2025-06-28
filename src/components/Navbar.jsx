@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import { TiArrowRight } from "react-icons/ti";
 import Hamburger from "hamburger-react";
 import SubSidebar from "./SubSidebar";
-import "../Index.css";
 import ThirdSidebar from "./ThirdSidebar";
 import { FaArrowRight } from "react-icons/fa";
 
