@@ -4,8 +4,8 @@ import { useState, useEffect } from "react";
 import { TiArrowRight } from "react-icons/ti";
 import Hamburger from "hamburger-react";
 import SubSidebar from "./SubSidebar";
-import ThirdSidebar from "./ThirdSidebar";
 import { FaArrowRight } from "react-icons/fa";
+import ThirdSidebar from "./ThirdSidebar";
 
 export default function Navbar({ currentSeason }) {
   const [isOpen, setOpen] = useState(false);
