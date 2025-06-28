@@ -6,7 +6,6 @@ import Activites from "./pages/activites/activites";
 import Saisons from "./pages/activites/Saisons";
 import PlainAir from "./pages/activites/plainAir";
 import Aller from "./pages/destinations/Aller";
-import SkiStations from "./pages/destinations/Ski";
 import Festivites from "./pages/activites/Festivites";
 import DynamicVilles from "./pages/destinations/dynamicVilles";
 import Villes from "./pages/destinations/Villes";
@@ -22,6 +21,7 @@ import DynamicPlaces from "./pages/destinations/dynamicPlaces";
 import ActivitesHiver from "./pages/activites/activitesHiver";
 import UnderConstruction from "./components/UnderConstruction";
 import NotFound from "./components/404";
+import SkiStations from "./pages/destinations/ski";
 
 export default function App() {
   return (
