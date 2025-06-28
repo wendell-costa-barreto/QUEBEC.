@@ -8,7 +8,7 @@ import PlainAir from "./pages/activites/plainAir";
 import Aller from "./pages/destinations/Aller";
 import Festivites from "./pages/activites/Festivites";
 import DynamicVilles from "./pages/destinations/dynamicVilles";
-import Villes from "./pages/destinations/Villes";
+import Villes from "./pages/destinations/villes";
 import Planification from "./pages/planification/Planification";
 import Entrer from "./pages/planification/Entrer";
 import Deplacer from "./pages/planification/Deplacer";
@@ -21,7 +21,7 @@ import DynamicPlaces from "./pages/destinations/dynamicPlaces";
 import ActivitesHiver from "./pages/activites/activitesHiver";
 import UnderConstruction from "./components/UnderConstruction";
 import NotFound from "./components/404";
-import SkiStations from "./pages/destinations/ski";
+import SkiStations from "./pages/destinations/Ski";
 
 export default function App() {
   return (
@@ -39,7 +39,7 @@ export default function App() {
         {/*DESTINATIONS*/}
         <Route path="/destinations" element={<Destinations />} />
         <Route path="/destinations/aller/" element={<Aller />} />
-        <Route path="/destinations/ski/" element={<UnderConstruction />} />
+        <Route path="/destinations/ski/" element={<SkiStations />} />
         <Route path="/destinations/villes/" element={<Villes />} />
         <Route path="/destinations/art/" element={<Art />} />
 
