@@ -67,12 +67,12 @@ To run the project locally:
 git clone https://github.com/wendell-costa-barreto/QUEBEC./
 ```
 
-##Install dependencies:
-
+## Install dependencies:
+```
 npm install
-
-##Start the development server:
-
+```
+## Start the development server:
+```
 npm run dev
 
-
+```
