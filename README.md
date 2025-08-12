@@ -13,7 +13,6 @@ Welcome to **Visitez le Québec**, a comprehensive and dynamic web app dedicated
 - [Getting Started](#getting-started)  
 - [Future Enhancements](#future-enhancements)  
 - [About the Author](#about-the-author)  
-- [License](#license)  
 
 ---
 
@@ -76,3 +75,14 @@ npm install
 npm run dev
 
 ```
+
+## Future Enhancements
+- Add english support to reach a wider audience.
+- Integrate user reviews and ratings for cities and restaurants.
+- Optimize SEO for better discoverability.
+- Add offline support and PWA capabilities.
+
+## About the Author
+This project was designed and developed solely by Wendell Costa, passionate about travel and web development. Feel free to connect and explore more of my work.
+
+
